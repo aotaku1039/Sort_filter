@@ -27,6 +27,7 @@ The higher the number, the newer it is. Please download the exe file with the hi
 ---
 
 基本の作成、プログラミング...アオタクaotaku
+
 Basic creation, programming ... aotaku1039
 
 ---
@@ -36,6 +37,9 @@ Basic creation, programming ... aotaku1039
 Various URLs of "knewjade" who was most indebted this time, such as understanding the structure of the Tet staff, correcting and correcting the source code, etc.
 
 Twitter                          ... https://twitter.com/1millim
+
 solution-finder                  ... https://github.com/knewjade/solution-finder
+
 path-filter                      ... https://github.com/knewjade/path-filter
+
 テト譜v115のデータ構造 （完全版） ... https://docs.google.com/presentation/d/1P5xt0vPGuxSb9hbRW6hvQFYKFoIccfNTJkWTdjtyigc/edit?usp=sharing
